@@ -1,0 +1,2 @@
+# simpleBlog
+DB: phpAdmin
